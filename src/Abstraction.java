@@ -11,7 +11,6 @@ class circle extends shape{
 		System.out.println("Circle diagram");
 	}
 }
-
 public class Abstraction {
 
 	public static void main(String[] args) {
