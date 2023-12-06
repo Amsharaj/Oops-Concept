@@ -14,7 +14,7 @@ abstract class Cricle extends colour{
 	double calculatePerimeter() {
 		return 2*Math.PI*radius;
 	}
-	
+
 }
 abstract class Tringle extends colour{
 	private double side1,side2,side3;
